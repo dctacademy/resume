@@ -4,6 +4,19 @@ Writing Résumé/CV is a key task in helping you find a job. Think of 'résumé'
 
 Before we get started, we want to make it clear that everything we cover in this document is just a guideline. There's no exact science when it comes down to what a company is looking for in a resume.
 
+# Index
+
+* [Clarity](#clarity)
+* [Content](#content)
+* [Formula](#formula)
+* [Dont's](#donts)
+* [Format](#format)
+    * [Education](#education)
+    * [Experience](#experience)
+    * [Projects](#projects)
+    * [Extra](#extra)
+* [Inspiring Resumes (and individuals) to Look For](#inspiring-resumes-and-individuals-to-look-for)
+
 # Clarity
 
 * The person reviewing your resume should be able to find pertinent information easily and quickly.
@@ -79,5 +92,6 @@ teams at a hackathon" clarifies just how impressive the win actually was
 achievements or activities in other areas.
 
 # Inspiring Resumes (and individuals) to Look For
+
 * [Jessica Pointing](https://www.businessinsider.in/See-the-resume-that-helped-a-college-student-land-internship-offers-from-Google-Facebook-Apple-and-Goldman-Sachs/articleshow/56899122.cms)
 * [Gayle Laakmann McDowell](https://www.careercup.com/resume)
