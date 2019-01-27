@@ -69,7 +69,7 @@ teams at a hackathon" clarifies just how impressive the win actually was
 ## Experience
 
 * List your experiences in **reverse chronological order**, starting with your most recent experience.
-* You can include your experience at DCT Academy as "Full Stack Web Developement Trianee at DCT Academy".
+* You can include your experience at DCT Academy as ```Full Stack Web Developement Trianee at DCT Academy```.
 * Always include the **employer, position, and dates** that you are employed.
 * Keep descriptions concise and clear. You can use the format: ```Accomplished X as measured by Y by doing Z```. Make sure you highlight your accomplishments.
 * Showcase results for internships, jobs, academic research, teaching, hackathons or coding competitions and tutoring experience.
