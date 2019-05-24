@@ -93,5 +93,7 @@ achievements or activities in other areas.
 
 # Inspiring Resumes (and individuals) to Look For
 
+**Note: You are expected to only look at these below for reference. You are NOT supposed to use the same format/template/layout**
+
 * [Jessica Pointing](https://www.businessinsider.in/See-the-resume-that-helped-a-college-student-land-internship-offers-from-Google-Facebook-Apple-and-Goldman-Sachs/articleshow/56899122.cms)
 * [Gayle Laakmann McDowell](https://www.careercup.com/resume)
