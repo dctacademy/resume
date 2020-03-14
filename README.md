@@ -91,7 +91,7 @@ teams at a hackathon" clarifies just how impressive the win actually was
 * Be sure to include things like these: student groups, leadership, position, university honors, awards or scholarships, publications, papers or patents you've worked on, conference presentations and any impressive
 achievements or activities in other areas.
 
-# Inspiring Resumes (and individuals) to Look For
+## Inspiring Resumes (and individuals) to Look For
 
 **Note: You are expected to only look at these below for reference. You are NOT supposed to use the same format/template/layout**
 
